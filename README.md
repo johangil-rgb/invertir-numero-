@@ -17,7 +17,7 @@ r4=(n//1000)%10
 $ni=r4*2+r3*10+r2*100+r1*1000$
 
 ## Diseño
-![Diagrama de Flujo](giagrama.png)
+![Diagrama de Flujo](diagrama.png)
 
 ## Construccion
 

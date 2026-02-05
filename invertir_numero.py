@@ -10,6 +10,7 @@ r3 = (n//10)%10
 r2 = (n//100)%10
 r1 = (n//1000)%10
 ni = r4*1000 + r3*100 + r2*10 + r1
+
 # output
 print("-----resultados----")
 print("numero original: " + str(n))
